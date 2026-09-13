@@ -6,6 +6,6 @@
 
 * [Cotter Joint](3D%20Designs/Cotter%20Joint/)
 * [Flange Coupling](3D%20Designs/Flange%20Couplings/)
-* [Screw Jack](3D%20Designs/Screw%20Jack/)
+* [Screw Jack](3D%20Designs/Screwjack/)
 
 
